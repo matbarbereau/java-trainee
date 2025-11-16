@@ -1,4 +1,4 @@
-package com.mat.variables;
+package com.mat.bases.variables;
 
 import org.junit.jupiter.api.Test;
 
