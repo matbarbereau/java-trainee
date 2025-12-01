@@ -8,7 +8,7 @@ class Exercice1VariablesTests {
 
     @Test
     void testAge() {
-        assertEquals(25, Exercice1Variables.getAge());
+        assertEquals(25, Exercice1Variables.getAge(25));
     }
     @Test
     void testMoyenne() {

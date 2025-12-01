@@ -5,7 +5,7 @@ public class Exercice1Variables {
     private Exercice1Variables() {
     }
 
-    public static int getAge() {
+    public static int getAge(int age) {
         return 0;
     }
 
